@@ -34,6 +34,6 @@ you can retrieve the public key of the certificate as a string and hard code it 
 ### NSURLSession
 
 The primary method to implement SSL Pinning using NSURLSession is 
-```
-URLSession:didReceiveChallenge:completionHandler:delegate
-```
+
+> URLSession:didReceiveChallenge:completionHandler:delegate
+
